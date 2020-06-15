@@ -1,0 +1,248 @@
+﻿body {
+    background-color: burlywood;
+   
+}
+#disclaimer {
+    font-size:17px;
+    color:black;
+    text-align:center;
+    border:dashed;
+    width:600px;
+    margin-left:400px;
+}
+#centre_of_maze {
+   
+    height :120px;
+    width:120px;
+    text-align:center;
+    border:dotted;
+}
+
+/*
+h1 {
+    padding-left: 48%;
+    padding-right: 50%;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-orientation: upright;
+    text-align:center;
+    writing-mode: vertical-rl;
+    position: fixed;
+}
+    */
+#welcome {
+    
+    text-decoration: underline;
+    color: lightcoral;
+    font-size:40px;
+}
+header
+{
+    
+    color:white;
+    font-style: italic;
+    font-size: 25px;
+    background: black;
+  
+    text-align:center;
+}
+
+
+
+#about {
+    text-align: center;
+    border: solid;
+    font-size: 20px;
+
+    
+}
+
+#author {
+    font-size: 20px;
+    text-align: center;
+    font-style:italic;
+}
+    
+
+#author1 {
+    font-family: 'Book Antiqua';
+    font-size: 20px;
+    color:brown;
+  
+}
+#author_section
+{
+    border:dashed;
+    margin-top:40em;
+    margin-bottom:2em;
+    text-align:center;
+}
+#hash
+{  
+   width:200px;
+   height:300px;
+ 
+   border:dashed;
+   position:relative;
+  
+   
+}
+#opening_links
+{
+    float:left;
+    margin-bottom:100px;
+}
+
+/*
+.centered
+{
+    position:absolute;
+    font-size:10px;
+    color:white;
+    background-image:url("#img2");
+}
+    */
+a {
+    
+    font-size: 20px;
+    padding-top: 2em;
+    padding-left: 1em;
+    margin-left: 20px;
+    float:left;
+}
+#links
+{
+   margin-top:150px;
+   margin-bottom:500px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+#i1 {
+    width: 80px;
+    height: 80px;
+}
+#i2 {
+    width: 80px;
+    height: 80px;
+}
+#i3 {
+    width: 80px;
+    height: 80px;
+  
+}
+#i4 {
+    width: 80px;
+    height: 80px;
+
+}
+#i5 {
+    width: 80px;
+    height: 80px;
+   
+}
+#i6 {
+    width: 80px;
+    height: 80px;
+
+}
+#verse {
+    background: black;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: cornsilk;
+    text-align: center;
+    margin-top:2em;
+}
+#poem {
+    text-align: center;
+    font-size: 35px;
+    color:black;
+    margin-left: 600px;
+    margin-right: 100px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+
+
+#quotes
+{
+    margin-top:200px;
+    margin-left:20px;
+    
+    
+}
+#quote1 {
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+}
+#quote2 {
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+    
+}
+#quote3 {
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+    
+}
+#quote4 {
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+    
+   }
+form {
+   
+    outline:auto;
+   padding-right:2em;
+   float:right;
+    text-align:right;
+    width:450px;
+    height:250px;
+    margin-right:30px;
+    margin-top:100px;
+    }
+h3
+{
+  text-align:left;
+  padding-left:70px;
+}
+#name {
+    margin-right: 200px;
+    border-radius: 5px 5px;
+}
+textarea
+{
+    border-radius: 10px 20px;
+}
+    #submit{
+        border: dashed;
+        border-color: brown;
+        border-radius: 10px 10px;
+        text-align: center;
+        margin-left: 200px;
+        margin-top: 10px;
+        background-color: brown;
+        font-size: 13px;
+        color: aliceblue;
+    }
+    hr
+    {
+        margin-top:150px;
+    }
+    #HR
+    {
+        text-align:center;
+        font-size:30px;
+        color:brown;
+    }
